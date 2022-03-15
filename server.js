@@ -33,7 +33,7 @@ const mimeTypes = {
 };
 
 // Hostname and Port
-const hostname = 'https://sample-nodejs-gfr3.onrender.com';
+const hostname = localhost;
 const port = 3000;
 
 // Create Server
