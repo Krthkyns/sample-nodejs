@@ -7,3 +7,4 @@ To run this server
 2. `cd` into the _simple-node-http-server_ folder and use
 ```sh
 npm start
+The server will start at http://127.0.0.1:3000
